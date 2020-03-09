@@ -5,7 +5,7 @@ Um simples projeto de calculadora mostrado em uma das aulas que tive que demonst
 
 ## Como executar o projeto
 
-Primeiro instale os módulos do node:
+No diretório raiz do projeto, instale os módulos do node:
 ```
 npm install
 ```
@@ -13,7 +13,7 @@ Installe as bibliotecas do bootstrap:
 ```
 npm install --save bootstrap@3
 ``` 
-No diretório raiz do projeto, inicie o servidor:
+Inicie o servidor:
 ```
 ng serve
 ```
