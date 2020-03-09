@@ -1,5 +1,5 @@
 # Beginner Calculator with Angular 9
-[Ler em português](https://github.com/BrunoSilveiraDev/calculator-angular/tree/master/translation) 
+
 
 Um simples projeto de calculadora mostrado em uma das aulas que tive que demonstra conceitos básicos do Angular 9.
 
