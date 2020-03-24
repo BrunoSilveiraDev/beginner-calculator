@@ -9,10 +9,6 @@ No diretório raiz do projeto, instale os módulos do node:
 ```
 npm install
 ```
-Installe as bibliotecas do bootstrap:
-```
-npm install --save bootstrap@3
-``` 
 Inicie o servidor:
 ```
 ng serve
