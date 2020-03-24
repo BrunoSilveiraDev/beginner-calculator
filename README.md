@@ -9,10 +9,6 @@ In the root of the project, install node modules:
 ```
 npm install
 ```
-Install bootstrap libs:
-```
-npm install --save bootstrap@3
-``` 
 Run the development server:
 ```
 ng serve
